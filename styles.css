@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+
+	margin-top: 50px;
+	display: flex;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+
+}
+
+.logo {
+	margin-left: 300px;
+	border: 1px solid white;
+	width: 150px;
+	height: 50px;
+}
+
+.catalog-button {
+	border: 1px solid white;
+	margin-left: 20px;
+	width:  120px;
+	height: 50px;
+}
+
+.search-bar {
+	margin-left: 20px;
+	width: 600px;
+	height: 50px;
+	border: 1px solid white;
+}
+
+.login-button {
+	margin-left: 250px;
+	border: 1px solid white;
+	width: 50px;
+	height: 50px;
+}
+
+.basket-button {
+	margin-left: 20px;
+	border: 1px solid white;
+	width: 50px;
+	height: 50px;
+}
+
+
+footer {
+	margin-top: 50px;
+	display: flex;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+
+#content {
+	margin-top: 50px;
+	display: flex;
+    background-color: yellow;
+    color: #fff;
+    padding: 10px;
+}
